@@ -53,7 +53,7 @@ You are responsible for:
 
 If you believe you’ve found a **security vulnerability**, please do NOT open a public issue.
 
-Instead, contact the maintainer privately through GitHub. Or email: [contact@oss.blockly.website].
+Instead, contact the maintainer privately through GitHub. Or email: [contact@oss.blockly.website](mailto:contact@oss.blockly.website).
 
 ---
 
