@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/icon.svg" width="64" height="64" alt="Blockly icon" />
+  <img src="https://brand.blockly.website/Logos/Dark/blockly-icon-dark.svg" width="64" height="64" alt="Blockly icon" />
 </p>
 
 <h1 align="center">Blockly</h1>
