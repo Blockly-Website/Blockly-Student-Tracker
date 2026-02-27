@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We are committed to making participation in the Blockly Student OSS project a respectful and welcoming experience for everyone.
+We are committed to making participation in the Blockly OSS project a respectful and welcoming experience for everyone.
 
 We value constructive discussion, thoughtful collaboration, and kindness.
 

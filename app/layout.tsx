@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     locale: "en_US",
   },
   other: {
-    "theme-color": "#6366F1",
+    "theme-color": "#2563EB",
     "mobile-web-app-capable": "yes",
     "apple-mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "black-translucent",

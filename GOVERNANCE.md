@@ -1,6 +1,6 @@
 # Governance
 
-Blockly Student OSS is a **maintainer-led open-source project**.
+Blockly OSS is a **maintainer-led open-source project**.
 
 ---
 

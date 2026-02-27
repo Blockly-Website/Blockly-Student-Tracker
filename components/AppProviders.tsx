@@ -6,13 +6,13 @@ import { ThemeMode } from "@/lib/types";
 
 /* ── Saturn-style block colour palette ─────────────────────────────── */
 export const BLOCK_COLORS = [
-  { bg: "#6366F1", gradient: "linear-gradient(135deg, #6366F1 0%, #818CF8 100%)" },
+  { bg: "#2563EB", gradient: "linear-gradient(135deg, #2563EB 0%, #93C5FD 100%)" },
   { bg: "#8B5CF6", gradient: "linear-gradient(135deg, #8B5CF6 0%, #A78BFA 100%)" },
   { bg: "#EC4899", gradient: "linear-gradient(135deg, #EC4899 0%, #F472B6 100%)" },
   { bg: "#F97316", gradient: "linear-gradient(135deg, #F97316 0%, #FB923C 100%)" },
   { bg: "#10B981", gradient: "linear-gradient(135deg, #10B981 0%, #34D399 100%)" },
   { bg: "#06B6D4", gradient: "linear-gradient(135deg, #06B6D4 0%, #22D3EE 100%)" },
-  { bg: "#3B82F6", gradient: "linear-gradient(135deg, #3B82F6 0%, #60A5FA 100%)" },
+  { bg: "#1D4ED8", gradient: "linear-gradient(135deg, #1D4ED8 0%, #93C5FD 100%)" },
   { bg: "#F43F5E", gradient: "linear-gradient(135deg, #F43F5E 0%, #FB7185 100%)" },
 ];
 export const LUNCH_COLOR = {
@@ -47,24 +47,24 @@ export function AppProviders({ children }: { children: React.ReactNode }) {
           mode,
           ...(mode === "light"
             ? {
-                primary: { main: "#6366F1", dark: "#4F46E5", light: "#A5B4FC", contrastText: "#fff" },
-                secondary: { main: "#EC4899", dark: "#DB2777", light: "#F9A8D4" },
-                text: { primary: "#1E293B", secondary: "#64748B" },
-                background: { default: "#F1F5F9", paper: "#FFFFFF" },
+                primary: { main: "#2563EB", dark: "#1D4ED8", light: "#93C5FD", contrastText: "#fff" },
+                secondary: { main: "#1D4ED8", dark: "#1D4ED8", light: "#93C5FD" },
+                text: { primary: "#0F172A", secondary: "#6B7280" },
+                background: { default: "#F8FAFC", paper: "#FFFFFF" },
                 success: { main: "#10B981" },
                 warning: { main: "#F59E0B" },
                 error: { main: "#EF4444" },
-                divider: alpha("#94A3B8", 0.18),
+                divider: alpha("#6B7280", 0.24),
               }
             : {
-                primary: { main: "#818CF8", dark: "#6366F1", light: "#C7D2FE", contrastText: "#0F172A" },
-                secondary: { main: "#F472B6", dark: "#EC4899", light: "#FBCFE8" },
-                text: { primary: "#F1F5F9", secondary: "#94A3B8" },
+                primary: { main: "#2563EB", dark: "#1D4ED8", light: "#93C5FD", contrastText: "#F8FAFC" },
+                secondary: { main: "#93C5FD", dark: "#2563EB", light: "#93C5FD" },
+                text: { primary: "#F8FAFC", secondary: "#F8FAFC" },
                 background: { default: "#0F172A", paper: "#1E293B" },
-                success: { main: "#34D399" },
-                warning: { main: "#FBBF24" },
-                error: { main: "#FB7185" },
-                divider: alpha("#94A3B8", 0.14),
+                success: { main: "#10B981" },
+                warning: { main: "#F59E0B" },
+                error: { main: "#EF4444" },
+                divider: alpha("#6B7280", 0.28),
               }),
         },
         typography: {
@@ -119,7 +119,7 @@ export function AppProviders({ children }: { children: React.ReactNode }) {
               root: { borderRadius: 10, paddingInline: 20, paddingBlock: 8 },
               containedPrimary: {
                 boxShadow: "none",
-                "&:hover": { boxShadow: "0 4px 12px rgba(99,102,241,.35)" },
+                "&:hover": { boxShadow: "0 4px 12px rgba(37,99,235,.35)" },
               },
             },
           },

@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Blockly Student OSS is a self-hosted project provided as-is.  
+Blockly OSS is a self-hosted project provided as-is.  
 Only the **latest release** is supported for security updates.
 
 | Version | Supported |
@@ -60,7 +60,7 @@ The following are **not considered security vulnerabilities**:
 
 ## Security Model Overview
 
-Blockly Student OSS uses the following security model:
+Blockly OSS uses the following security model:
 
 - **Supabase Auth** for authentication
 - **Supabase PostgreSQL** for data storage
@@ -77,7 +77,7 @@ Security is enforced **at the database level**, not in client logic.
 
 ## User Responsibilities
 
-Because Blockly Student OSS is self-hosted, users are responsible for:
+Because Blockly OSS is self-hosted, users are responsible for:
 
 - Protecting their Supabase account
 - Keeping API keys secure
@@ -100,6 +100,6 @@ There are no guaranteed response times, but reports are taken seriously.
 
 ## Final Notes
 
-Blockly Student OSS is a side project and is provided **without warranty**.
+Blockly OSS is a side project and is provided **without warranty**.
 
 We appreciate responsible disclosure and efforts to keep the project secure.

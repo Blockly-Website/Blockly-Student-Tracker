@@ -1,6 +1,6 @@
-# Contributing to Blockly Student OSS
+# Contributing to Blockly OSS
 
-Thanks for your interest in contributing! Blockly Student OSS is a small, open-source side project focused on simplicity, privacy, and reliability.
+Thanks for your interest in contributing! Blockly OSS is a small, open-source side project focused on simplicity, privacy, and reliability.
 
 Please read this guide before opening an issue or pull request.
 
