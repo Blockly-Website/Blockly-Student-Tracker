@@ -5,8 +5,8 @@
 <h1 align="center">Blockly</h1>
 
 <p align="center">
-  Self-hosted school schedule &amp; task tracker for individual students.<br/>
-  <strong>One Supabase project = one student's data.</strong>
+  <strong>Your Schedule, Your Server.</strong><br/>
+  Self-hosted school schedule &amp; task tracker for individual students.
 </p>
 
 <p align="center">
