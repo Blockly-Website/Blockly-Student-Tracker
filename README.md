@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://brand.blockly.website/Logos/Dark/blockly-icon-dark.svg" width="64" height="64" alt="Blockly icon" />
+  <img src="https://brand.blockly.website/Logos/Dark/blockly-icon.svg" width="64" height="64" alt="Blockly icon" />
 </p>
 
 <h1 align="center">Blockly</h1>
 
 <p align="center">
-  Self-hosted school schedule &amp; task tracker for individual students.<br/>
-  <strong>One Supabase project = one student's data.</strong>
+  <strong>Your Schedule, Your Server.</strong><br/>
+  Self-hosted school schedule &amp; task tracker for individual students.
 </p>
 
 <p align="center">

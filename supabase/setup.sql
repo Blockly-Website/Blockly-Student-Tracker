@@ -1,4 +1,4 @@
--- Blockly Student OSS
+-- Blockly OSS
 -- One Supabase project = one student's data
 
 create extension if not exists "pgcrypto";

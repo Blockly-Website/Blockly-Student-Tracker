@@ -153,7 +153,7 @@ export function Dashboard({ session }: DashboardProps) {
                     bgcolor: tab === i ? "primary.main" : "transparent",
                     ...(tab === i && {
                       color: "#fff",
-                      boxShadow: "0 2px 8px rgba(99,102,241,.3)",
+                      boxShadow: "0 2px 8px rgba(37,99,235,.3)",
                     }),
                     transition: "all .2s",
                     "&:hover": {

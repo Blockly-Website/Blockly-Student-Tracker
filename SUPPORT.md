@@ -1,6 +1,6 @@
 # Support
 
-Thanks for using Blockly Student OSS!
+Thanks for using Blockly OSS!
 
 This document explains how to get help and what kind of support is available.
 
@@ -25,7 +25,7 @@ This document explains how to get help and what kind of support is available.
 
 ## What Support Is Not Provided
 
-Please understand that Blockly Student OSS is a **side project**.
+Please understand that Blockly OSS is a **side project**.
 
 The following are not guaranteed:
 
@@ -67,6 +67,6 @@ Be respectful and patient.
 
 ## Final Note
 
-Blockly Student OSS is provided **as-is**, without warranty.
+Blockly OSS is provided **as-is**, without warranty.
 
 If something breaks, we’ll do our best to help — but please be kind and understanding.
